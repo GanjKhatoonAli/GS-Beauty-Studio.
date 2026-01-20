@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { gsap } from 'GSAP';
 import "flowbite";
 import './App.css';
 import logo from "./assets/logo.png";
