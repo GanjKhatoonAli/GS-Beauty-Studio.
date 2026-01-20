@@ -1,0 +1,76 @@
+@import "tailwindcss";
+body{
+    background-color: black;
+    color: white;
+    font-family: lobster;
+    
+}
+.Ganj{
+ width: 70px;
+ height: auto;
+ border-radius: 50%;
+ object-fit: cover;
+}
+li a:hover{
+border-bottom: 2px solid burlywood;
+color: burlywood;
+}
+li a{
+    font-weight: bold;
+    font-size: 18px;
+}
+span{
+    color: burlywood;
+    font-size: 40px;
+}
+.sajoo{
+
+  font-weight: bold;
+  font-style: italic;
+  font-size: 25px;
+}
+.containers{
+    background: url(./assets/salon.mp4);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    font-family: lobster;
+}
+/* Typing effect for heading */
+.typing {
+  overflow: hidden;
+  white-space: nowrap;
+  animation: typing 4s steps(40, end), blink 0.75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+
+/* Typing effect for paragraph with delay */
+/* Typing effect for paragraph with delay */
+.typing-delay {
+  overflow: hidden;
+  white-space: nowrap;
+  animation: typing 4s steps(60, end) 1s forwards, blink 0.75s step-end infinite 1s;
+  width: 0; /* start hidden */
+}
+
+
+/* Fade-in for buttons */
+.fade-in-buttons {
+  opacity: 0;
+  animation: fadeIn 1s ease forwards;
+  animation-delay: 2s; /* starts after typing finishes */
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
