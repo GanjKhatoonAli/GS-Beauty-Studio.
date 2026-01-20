@@ -36,7 +36,7 @@ import eyebrowthread from './assets/eyebrow thread.jpg';
 import manicure from './assets/manicure.jpg';
 import pedicure from './assets/pedicure.jpg';
 import bmehndi from './assets/bmehndi.jpg';
-import arabic from './assets/arabic.jpg';
+import arabic from './assets/Arabic.jpg';
 import simple from './assets/simple.jpg';
 import white from './assets/white.jpg';
 import b1 from './assets/b1.jpg';
