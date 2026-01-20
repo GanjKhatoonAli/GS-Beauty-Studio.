@@ -38,7 +38,7 @@ import pedicure from './assets/pedicure.jpg';
 import bmehndi from './assets/bmehndi.jpg';
 import arabic from './assets/Arabic.jpg';
 import simple from './assets/simple.jpg';
-import white from './assets/white.jpg';
+import white from './assets/White.jpg';
 import b1 from './assets/b1.jpg';
 import b2 from './assets/b2.jpg';
 import b3 from './assets/b3.jpg';
