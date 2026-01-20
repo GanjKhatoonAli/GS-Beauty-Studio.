@@ -25,7 +25,7 @@ import keratin from './assets/keratin.jpg';
 import rebonding from './assets/Hair treatment.jpg';
 import facial from './assets/facial.jpg';
 import DF from './assets/D Facial.jpg';
-import hydra from './assets/Hydra.jpg';
+import hydra from './assets/hydra.jpg';
 import acne from './assets/acne.jpg';
 import nail from './assets/nail art.jpg';
 import gel from './assets/gel.jpg';
